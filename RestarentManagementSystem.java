@@ -16,7 +16,7 @@ public class Main extends Application {
 
     private static final String URL = "jdbc:mysql://localhost:3306/testdb";
     private static final String USER = "root";  
-    private static final String PASSWORD = "root"; 
+    private static final String PASSWORD = "5876"; 
 
     @Override
     public void start(Stage primaryStage) {
